@@ -48,7 +48,7 @@ Most students can copy-paste a LeetCode solution from YouTube but can't explain 
 
 ## 🖼️ Preview
 
-<img src="./screenshot.png" width="1000">
+![App Screenshot](./screenshot.png)
 
 ---
 
