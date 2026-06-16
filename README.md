@@ -1,7 +1,8 @@
 # 🧠 LeetCode Solution Explainer
 
-
-\
+![Made with Gemini](https://img.shields.io/badge/AI-Gemini%202.0%20Flash-2563EB)
+![Deployed on](https://img.shields.io/badge/Deployed-Cloud%20Run-4285F4)
+![License](https://img.shields.io/badge/license-MIT-black)
 
 > An AI-powered DSA tutor that explains *your own* LeetCode solutions — instantly.
 
