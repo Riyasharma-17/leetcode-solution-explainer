@@ -48,7 +48,7 @@ Most students can copy-paste a LeetCode solution from YouTube but can't explain 
 
 ## 🖼️ Preview
 
-<img src="C:\Users\riyas\OneDrive\Documents\leetcode-solution-explainer\leetcode-solution-explainer\screenshot.png" alt="View of website">
+<img src="./screenshot.png" width="1000">
 
 ---
 
