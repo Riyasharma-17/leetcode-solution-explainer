@@ -1,0 +1,6 @@
+{
+  "name": "LeetCode Solution Explainer",
+  "description": "Analyze your LeetCode solutions, extract intuitive explanations, Big O complexity analysis, patterns used, and key memory tricks of the algorithms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
